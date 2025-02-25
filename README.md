@@ -2,7 +2,8 @@
 
 A classic Space Invader arcade game built with Python and Pygame. Defend Earth against alien invaders by shooting them down while avoiding their attacks!
 
-![Space Invader Game]([https://github.com/Ashish-Upadhyaya/Space_Invader/raw/main/assets/screenshot.png](https://github.com/Ashish-Upadhyaya/Space_Invader/blob/main/screenshot.png))
+![Space Invader Game](https://github.com/Ashish-Upadhyaya/Space_Invader/blob/main/screenshot.png)
+
 
 ## Features
 
